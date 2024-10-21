@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab5</string>
+    <string name="search">Search</string>
+    <string name="alert">Alert</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="hyphen">---</string>
+</resources>
